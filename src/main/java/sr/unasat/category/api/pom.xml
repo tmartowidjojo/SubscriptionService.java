@@ -103,7 +103,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>sr.unasat.category.api.SubscriptionConfig</mainClass> <!-- Replace with your main class -->
+                                    <mainClass>sr.unasat.category.api.SubscriptionConfig</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
